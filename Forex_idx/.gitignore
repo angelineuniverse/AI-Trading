@@ -1,0 +1,9 @@
+data/full
+data/merger
+data/ranking
+controller/*
+__pycache__
+log
+lightning_logs
+.env
+services.py
