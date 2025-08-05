@@ -1,6 +1,8 @@
 data/full
 data/merger
 data/ranking
+data/preprosesing
+*.sqlite3
 controller/preprosesing
 controller/training
 __pycache__
